@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treasure game", "Treasure game\Treasure game.csproj", "{114A63E1-130A-455D-8D8C-AA51D976EBEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114A63E1-130A-455D-8D8C-AA51D976EBEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114A63E1-130A-455D-8D8C-AA51D976EBEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114A63E1-130A-455D-8D8C-AA51D976EBEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114A63E1-130A-455D-8D8C-AA51D976EBEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFAD44D8-FF6E-4A5C-B10C-B52077795D95}
+	EndGlobalSection
+EndGlobal
